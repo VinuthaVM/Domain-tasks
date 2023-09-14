@@ -11,7 +11,7 @@ Task 7 is centered around gaining a deeper understanding of the mathematical con
    1. Select a simple function that you want to model, such as a polynomial or trigonometric function.
    2. Collect data points by evaluating the chosen function for various input values.
    3. Use mathematical techniques like least squares regression to fit a curve to the data points.
-   4. Visualize the curve-fitting results using tools like Desmos or other graphing software.
+   4. Visualize the curve-fitting results using tools like Desmos or other graphing softwares.
       
  ![desmos-graph](https://github.com/VinuthaVM/Domain-tasks/assets/125047980/531812ef-b78e-4f33-9eb5-1cb75a2dc182)
  
@@ -27,4 +27,8 @@ Fourier transforms, a crucial tool for approximating complex functions. You'll m
    2. Utilize MATLAB, a popular platform for signal processing, to implement Fourier transforms.
    3. Understand the mathematical concepts behind Fourier transforms, which involve decomposing complex signals into a sum of sinusoidal functions.
    4. Visualize the transformed signal and its components to gain insights into the frequency-domain representation.
+![Screenshot (17)](https://github.com/VinuthaVM/common-task/assets/125047980/6164b138-4f45-4f4b-9172-b5de64ffb642)
+![Screenshot (18)](https://github.com/VinuthaVM/common-task/assets/125047980/3c8a9abe-3b2a-4751-9bbb-2605c61ebcc0)
+![Screenshot (19)](https://github.com/VinuthaVM/common-task/assets/125047980/20b57d77-067b-4377-8bf7-9975cdd89828)
+![Screenshot (20)](https://github.com/VinuthaVM/common-task/assets/125047980/db2d188d-3c64-402f-855d-bb99275b99f3)
 
