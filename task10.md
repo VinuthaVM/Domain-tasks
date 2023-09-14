@@ -1,5 +1,5 @@
 # Task 10
-Application:* Healthcare - Disease Diagnosis with Medical Imaging
+## Application:Healthcare - Disease Diagnosis with Medical Imaging
 
 *Description:*
 - *Problem:* Accurate and timely disease diagnosis is crucial in healthcare. Medical imaging, such as X-rays, CT scans, and MRIs, generates vast amounts of data that need to be analyzed for early disease detection.
