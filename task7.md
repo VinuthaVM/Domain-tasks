@@ -11,7 +11,7 @@ Task 7 is centered around gaining a deeper understanding of the mathematical con
    1. Select a simple function that you want to model, such as a polynomial or trigonometric function.
    2. Collect data points by evaluating the chosen function for various input values.
    3. Use mathematical techniques like least squares regression to fit a curve to the data points.
-   4. Visualize the curve-fitting results using tools like Desmos or other graphing software.
+   4. Visualize the curve-fitting results using tools like Desmos or other graphing softwares.
       
  ![desmos-graph](https://github.com/VinuthaVM/Domain-tasks/assets/125047980/531812ef-b78e-4f33-9eb5-1cb75a2dc182)
  
