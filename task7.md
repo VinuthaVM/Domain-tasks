@@ -16,3 +16,15 @@ Task 7 is centered around gaining a deeper understanding of the mathematical con
  ![desmos-graph](https://github.com/VinuthaVM/Domain-tasks/assets/125047980/531812ef-b78e-4f33-9eb5-1cb75a2dc182)
  
 ![desmos-graph (2)](https://github.com/VinuthaVM/Domain-tasks/assets/125047980/3ada7698-3519-4081-988f-8a97d473b300)
+
+## Fourier transforms:
+
+Fourier transforms, a crucial tool for approximating complex functions. You'll model a Fourier transform for a function of your choice using MATLAB.
+- This task delves into the mathematical concepts behind Fourier transforms, which are widely used in signal processing and image analysis.
+
+  *Steps Involved:*
+   1. Choose a function that you want to analyze and approximate using Fourier transforms.
+   2. Utilize MATLAB, a popular platform for signal processing, to implement Fourier transforms.
+   3. Understand the mathematical concepts behind Fourier transforms, which involve decomposing complex signals into a sum of sinusoidal functions.
+   4. Visualize the transformed signal and its components to gain insights into the frequency-domain representation.
+
